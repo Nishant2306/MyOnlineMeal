@@ -114,7 +114,7 @@ html{
     content: " ";
     position: absolute;
     background: url('Logo2.jpg') no-repeat center center/cover;
-    height: 2412px;
+    height: 2609px;
     top:0px;
     left:0px;
     width: 100%;
@@ -222,9 +222,10 @@ html{
 
 
 footer{
-    background: black;
+     background: black;
     color: white;
-    padding: 90px 100px;
+    padding: 101px 0px;
+    opacity: 0.5;
 }
 
 /* Utility Classes */

@@ -53,6 +53,12 @@
     width:80%;
 }
 /* Footer */
+footer{
+    background: black;
+    color: white;
+    padding: 101px 0px;
+    opacity: 0.5;
+}
 
 /* Utility classes */
 .h-primary{
